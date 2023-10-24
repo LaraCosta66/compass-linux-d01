@@ -1,4 +1,4 @@
-# Desafio 01 - Trilha DevSecOps na CompassUOL - Sprint 1
+## Desafio 01 - Trilha DevSecOps na CompassUOL - Sprint 1
 
 ![Compass.UOL Logo](./screenshots/compass-uol.png)
 
