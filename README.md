@@ -1,8 +1,10 @@
+# Desafio 01 - Trilha DevSecOps na CompassUOL - Sprint 1
+
 ![Compass.UOL Logo](./screenshots/compass-uol.png)
 
-# Instalação de um servidor Oracle Linux 8.x em uma Virtual Box
+## Instalação de um servidor Oracle Linux 8.x em uma Virtual Box
 
-## Ferramentas necessárias (Passo 1):
+### Ferramentas necessárias (Passo 1):
 
 ### Virtual Box
 
